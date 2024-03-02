@@ -8,5 +8,10 @@ public class gitDemo01 {
 	public void testDemo01 () {
 		System.out.println("Test_01");
 	}
+	
+	@Test
+	public void testDemo02() {
+		System.out.println("Test_02");
+	}
 
 }
